@@ -49,7 +49,7 @@ It shows the following screen in which the option Google can be selected
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done
 In windows IE, on giving the url (http://192.168.205.30/), the fake Google page is displayed. The victim can enter the username and password
 
-![image](https://github.com/user-attachments/assets/75658bb9-5490-4993-8a4a-8c64641c2072)
+![image](https://github.com/user-attachments/assets/15850a4f-8729-4a87-a479-c4b26403a269)
 
 
 SET logs the information regarding the Google credentials
